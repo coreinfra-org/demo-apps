@@ -1,0 +1,3 @@
+# REMEMBER: top-level .gitignore does not apply to submodules
+
+.DS_Store
