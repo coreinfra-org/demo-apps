@@ -1,5 +1,5 @@
 NOT USING THIS REPO AS OF 2023-11-29.
-EASIER TO KEEP A FLAT CONSISTENT STRUCTURE FOR NOW.
+FOUND IT EASIER TO KEEP A FLAT STRUCTURE.
 
 This repo is a container for demo app repositories.
 Each subdirectory is a git submodule for one demo app.
